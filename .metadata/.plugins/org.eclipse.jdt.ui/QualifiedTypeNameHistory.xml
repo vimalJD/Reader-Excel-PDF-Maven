@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.pdfbox.examples.pdmodel.PrintDocumentMetaData"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDDocument"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.util.PDFTextStripper"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="javax.xml.crypto.dsig.spec.XSLTTransformParameterSpec"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="org.apache.poi.xssf.usermodel.XSSFWorkbook"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="javax.swing.text.html.TableView.RowView"/>
+<fullyQualifiedTypeName name="org.apache.poi.xssf.eventusermodel.XSSFReader.SheetIterator"/>
+<fullyQualifiedTypeName name="jxl.Sheet"/>
+<fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Sheet"/>
+<fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Row"/>
+<fullyQualifiedTypeName name="org.apache.poi.xssf.usermodel.examples.IterateCells"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Cell"/>
+<fullyQualifiedTypeName name="jxl.Workbook"/>
+<fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Workbook"/>
+</qualifiedTypeNameHistroy>

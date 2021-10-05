@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;excelfilepath&apos; in &apos;readexcelfile.SimpleExcelReader.main(...)&apos; to &apos;excelFilePath&apos;&#x0D;&#x0A;- Original project: &apos;SimpleExcelReader&apos;&#x0D;&#x0A;- Original element: &apos;readexcelfile.SimpleExcelReader.main(String[]).excelfilepath&apos;&#x0D;&#x0A;- Renamed element: &apos;excelfilepath&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;excelfilepath&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;readexcelfile{SimpleExcelReader.java[SimpleExcelReader~main~\[QString;@excelfilepath!455!495!462!474!QString;!0!false" name="excelFilePath" references="true" stamp="1527323565653" version="1.0"/>
+</session>
